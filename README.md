@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Git and Python and ...
+- 🤔 I’m interested in CFD and simulation in general
+
 <!--
 **HGrotjans/HGrotjans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
